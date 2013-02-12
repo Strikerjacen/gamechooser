@@ -1,0 +1,99 @@
+GBA	Pokemon Ruby
+DS	Pokemon: Black
+DS	Pokemon: HeartGold
+DS	Pokemon: Platinum
+DS	Professor Layton
+3DS	Legend of Zelda: Ocarina of Time 3D
+3DS	Shantae
+PSX	Crash Bandicoot 2: Cortex Strikes Back
+PSX	Crash Bandicoot 3: Warped
+PSX	Spyro the Dragon
+PSX	Spyro 2: Ripto's Revenge
+PSX	Spyro 3: Year of the Dragonfly
+PSX	Cool Boarders 3
+PS2	Star Wars: Battlefront
+PS2	Spiderman 2
+PS2	Metal Gear Solid 2: Sons of the Patriots
+PS2	Metal Gear Solid 3:	Snake Eater
+PS2	Jak II
+PS2	Jak 3
+PS3	FIFA 10
+PS3	FIFA 2010 World Cup
+PS3	FIFA 11
+PS3	FIFA 12
+PS3	FIFA Street
+PS3	Metal Gear Solid 4: Guns of the Patriots
+PS3	GTA4
+PS3	Split Second
+PS3	Star Wars: The Force Unleashed
+PC	Star Wars: Knights of the Old Republic 2
+PC	Assassin's Creed Revelations
+PC	Battlefield 3
+PC	BIT.Trip.Runner
+PC	Call of Duty 4: Modern Warfare
+PC	Deus Ex: Human Revolution
+PC	L.A. Noire
+PC	Mass Effect
+PC	Mass Effect 2
+PC	Mass Effect 3
+PC	Need for Speed: Hot Pursuit
+PC	Poker Night at the Inventory
+PC	Portal
+PC	Portal 2
+PC	Civilization V
+PC	Star Wars - Jedi Knight II: Jedi Outcast
+PC	Star Wars: Knights of the Old Republic
+PC	Super Meat Boy
+PC	Superbrothers: Sword & Sworcery EP
+PC	Team Fortress 2
+PC	Alien Swarm
+PC	Just Cause 2
+PC	Plants vs. Zombies
+PC	Shank
+PC	Sonic Generations
+PC	Splinter Cell
+PC	Splinter Cell: Chaos Theory
+PC	Splinter Cell: Conviction
+PC	Splinter Cell: Double Agent
+PC	Half-Life 2
+PC	Half-Life 2: Ep. One
+PC	Half-Life 2: Ep. Two
+PC	Half-Life 2: Lost Coast
+PC	Monkey Island 2
+PC	Amnesia: The Dark Descent
+PC	And Yet It Moves
+PC	Aquaria
+PC	Audiosurf
+PC	Bastion
+PC	Cave Story+
+PC	Cogs
+PC	Cortex Command
+PC	Crayon Physics Deluxe
+PC	Gish
+PC	Gratuitous Space Battles
+PC	Hammerfight
+PC	Jamestown
+PC	LIMBO
+PC	Lugaru HD
+PC	Minecraft
+PC	The Misadventures of P.B. Winterbottom
+PC	NightSky
+PC	Osmos
+PC	Penumbra: Overture
+PC	Plain Sight
+PC	Psychonauts
+PC	VVVVVV
+PC	Braid
+PC	Machinarium
+PC	World of Goo
+PC	Blur
+PC	Nitronic Rush
+PC	Deus Ex: GOY
+PC	Deus Ex: Invisible War
+PC	Call of Duty: Modern Warfare 2
+PC	Left 4 Dead 2
+PC	Shattered Horizon
+PC	Star Wars - Battlefront II
+PC	Star Wars - Republic Commando
+PC	Revenge of the Titans
+PC	Sins of a Solar Empire
