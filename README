@@ -1,0 +1,19 @@
+README
+GamesScript program details
+Douglas Selby, selby.douglas@gmail.com
+February 12, 2012
+
+Required files -
+gameChooser.py
+gamesListFullLibrary.txt
+gamesListToDo.txt
+
+Brief -
+This Python program allows for the maintenance of a video game library.  It supports editing of multiple textfile-based databases of titles (addition, removal) as well as a random picker with which to select a set of titles from a database.
+It checks duplicate titles and supports the addition of additional title information for organizational purposes.
+
+Developer Notes -
+I wrote this over my free time outside of school.  At the time, I was most familiar with coding in Python, due to my preference for writing code first in free hand outline and not worrying about symantics or cleanliness until later.
+I realize that this could easily have been accomplished with less pains in a database-organized language, and I may revist that option in the future.
+At the moment, this is just a rough early try at creating a text-editing list program with significant pains toward easy user instruction/interation.
+Enjoy!
